@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5cd8d401-b3de-449b-9708-06561c93ccaf)**[Estos juegos es un proyecto de clase, las intenciones de este juego son únicamente cumplir los requisitos que pide la tarea.]**
+[Estos juegos es un proyecto de clase, las intenciones de este juego son únicamente cumplir los requisitos que pide la tarea.]**
 
 # Prototype 1 (pimba)
 
