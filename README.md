@@ -1,4 +1,4 @@
-[Estos juegos es un proyecto de clase, las intenciones de este juego son únicamente cumplir los requisitos que pide la tarea.]**
+**[Estos juegos es un proyecto de clase, las intenciones de este juego son únicamente cumplir los requisitos que pide la tarea.]**
 
 # Prototype 1 (pimba)
 
