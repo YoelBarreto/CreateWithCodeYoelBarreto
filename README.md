@@ -5,7 +5,7 @@
 Se trata de una carretera con obstaculos los cuales debes esquivar con un vehiculo, el prototipo se trataba de aplicar
 elementos como colisiones y scripts a los assets dados por **Unity**.
 
-****![image](https://github.com/user-attachments/assets/a2ec992e-d29d-498c-8a9c-c1e508a6458f)
+![image](https://github.com/user-attachments/assets/a2ec992e-d29d-498c-8a9c-c1e508a6458f)
 
 
 # Prototype Challenge 1 (Challenge 1)
